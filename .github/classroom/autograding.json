@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Level&#65297;&#45;&#65297;",
+      "setup": "",
+      "run": "gradle test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    }
+  ]
+}
